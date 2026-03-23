@@ -1,1 +1,11 @@
-
+Date,Region,Product,Customer,Revenue,Expense,Budget_Revenue,Profit
+01-Jan-25,Bangalore,Laptop,C101,85000,62000,90000,23000
+02-Jan-25,Hyderabad,Printer,C102,25000,18000,30000,7000
+03-Jan-25,Pune,Desktop,C103,60000,42000,65000,18000
+04-Jan-25,Bangalore,Laptop,C104,92000,70000,95000,22000
+05-Jan-25,Hyderabad,Monitor,C105,30000,21000,32000,9000
+06-Jan-25,Pune,Printer,C106,28000,19000,30000,9000
+07-Jan-25,Bangalore,Desktop,C107,75000,50000,80000,25000
+08-Jan-25,Hyderabad,Laptop,C108,88000,64000,90000,24000
+09-Jan-25,Pune,Monitor,C109,27000,20000,29000,7000
+10-Jan-25,Bangalore,Printer,C110,26000,18500,28000,7500
